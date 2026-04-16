@@ -1,5 +1,8 @@
 # 🔒 Server Hardener
 
+<img width="1580" height="1300" alt="image" src="https://github.com/user-attachments/assets/c755e4ec-d2e2-43e7-b1e6-cd9ad61a274b" />
+
+
 An interactive TUI for securing fresh Linux servers — built with [Charm](https://charm.sh).
 
 Uses **Bubble Tea**, **Lip Gloss**, and **Huh** for a beautiful terminal experience
